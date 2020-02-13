@@ -1,4 +1,4 @@
-# LoggingKata
+  # LoggingKata
 
 An exercise in geolocation, csv parsing, and logging
 
